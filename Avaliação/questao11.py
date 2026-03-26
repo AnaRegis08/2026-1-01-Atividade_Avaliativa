@@ -1,5 +1,5 @@
 alunos = []
-for indice in range(3):
+for indice in range(15):
     entrada = input("N1 N2 N3 N4 Nome")
     vetor = entrada.split()
     # N1 = vetor[0]
